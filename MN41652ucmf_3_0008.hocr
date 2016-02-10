@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41652ucmf_3_0008.png"; bbox 0 0 2429 3448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 532 1207 891">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 532 1207 891">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 532 1207 891; baseline 0.002 -69"><span class='ocrx_word' id='word_1_1' title='bbox 203 532 883 824; x_wconf 81' lang='lat' dir='ltr'><strong>Clement</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 937 550 1040 891; x_wconf 75' lang='grc' dir='ltr'>Ι,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1104 552 1207 824; x_wconf 92' lang='lat' dir='ltr'>P</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 1468 1134 2301">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 1468 1134 2301">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 1468 1134 1763; baseline 0.008 -7"><span class='ocrx_word' id='word_1_4' title='bbox 205 1468 1134 1763; x_wconf 80' lang='lat' dir='ltr'>Clementino</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 201 1935 1123 2301; baseline 0.016 -87"><span class='ocrx_word' id='word_1_5' title='bbox 201 1935 966 2301; x_wconf 80' lang='lat' dir='ltr'>Epitomae</span> <span class='ocrx_word' id='word_1_6' title='bbox 1028 1941 1123 2229; x_wconf 95' lang='lat' dir='ltr'>d</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1220 3448">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1220 3448">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3448; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1220 3448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 201 2868 1181 3239">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 201 2868 1181 3239">
+     <span class='ocr_line' id='line_1_5' title="bbox 201 2868 1181 3239; baseline 0.018 -87"><span class='ocrx_word' id='word_1_8' title='bbox 201 2868 831 3239; x_wconf 77' lang='lat' dir='ltr'>Lipsiae,</span> <span class='ocrx_word' id='word_1_9' title='bbox 915 2885 1181 3170; x_wconf 78' lang='lat'>185</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
